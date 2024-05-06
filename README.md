@@ -2,7 +2,7 @@
 
 - Features
 - Built with
-- Links
+- Link
 - Author
 
 ## Features
@@ -15,10 +15,9 @@
 
 - JavaScript
 
-## Links
+## Link
 
 - Solution URL: https://github.com/Antho137/recursion
-- Live Site URL: https://antho137.github.io/recursion/
 
 ## Author
 
