@@ -1,4 +1,4 @@
-# Weather App
+# Recursion
 
 - Features
 - Built with
@@ -7,21 +7,18 @@
 
 ## Features
 
-- Weather App project from Odin intermediate JavaScript course.
-- Enter a city in the form input and click Search button. 
-- The city entered will be displayed with its temperature in degree celsius and the weather description.
+- Recursion project from Odin intermediate JavaScript course.
+- fibonacci functions in which the first one takes a number and returns an array of numbers from using Fibonacci sequence iteration and the second one returns an array of numbers from using Fibonacci sequence recursion.
+- Merge Sort function which takes an array of numbers and returns a sorted array from using a recursive merge sort methodology.
 
 ## Built with
 
-- HTML5 markup 
-- CSS 
-- Weather API
 - JavaScript
 
 ## Links
 
-- Solution URL: https://github.com/Antho137/weather-app
-- Live Site URL: https://antho137.github.io/weather-app/
+- Solution URL: https://github.com/Antho137/recursion
+- Live Site URL: https://antho137.github.io/recursion/
 
 ## Author
 
